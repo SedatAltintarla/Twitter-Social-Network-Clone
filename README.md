@@ -1,5 +1,6 @@
 # Twitter-Social-Network-Clone
 
+```mermaid
 flowchart TD
   subgraph Backend [Spring Boot API]
     A[Controller<br/>(PostController, LikeController, AuthController, etc.)]
